@@ -8,6 +8,21 @@ CRISP-DM - This is the project management method used in the process to determin
 
 ![crispdm](https://github.com/spalakollu/Bank_Products_Marketing/blob/main/images/crisp.png)
 
+A PDF version of notebook is located <a href="https://github.com/spalakollu/Bank_Products_Marketing/blob/main/BankMarketingNotebook.pdf">here</a>.
 
-
+The contents of notebook are below. 
+## 1) Understanding the Data
+## 2) Read in the Data
+## 3) Understanding the Features
+## 4) Understanding the Task
+## 5) Engineering Features
+## 6) Train/Test Split
+## 7) A Baseline Model
+## 8) A Simple Model
+## 9) Score the Model
+## 10) Model Comparisons
+## 11) Improving the Model
+## 12) Evaluation
+## 13) Findings
+## 14) Next Steps and Recommendations
 
