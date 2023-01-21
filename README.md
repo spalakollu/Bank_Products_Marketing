@@ -23,6 +23,7 @@ The contents of notebook are below.
 ### 10) Model Comparisons
 ### 11) Improving the Model
 ### 12) Evaluation
-### 13) Findings
-### 14) Next Steps and Recommendations
+### 13) Final Model
+### 14) Findings
+### 15) Next Steps and Recommendations
 
